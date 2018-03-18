@@ -1,0 +1,18 @@
+body.pagina_indexx {
+    background: blue;
+}
+
+.pagina_index h2{
+	color: blue;
+}
+
+.pagina_index label{
+	color: blue;
+}
+
+/*menu lateral*/
+    
+
+a.btn.btn-primary.ajax-link:hover {
+    background: cadetblue;
+}
